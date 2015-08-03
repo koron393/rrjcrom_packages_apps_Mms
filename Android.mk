@@ -36,6 +36,8 @@ LOCAL_AAPT_FLAGS := \
     --extra-packages com.android.contacts.common \
     --extra-packages com.android.phone.common
 
+LOCAL_AAPT_INCLUDE_ALL_RESOURCES := true
+
 LOCAL_REQUIRED_MODULES := SoundRecorder
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
