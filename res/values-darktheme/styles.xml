@@ -16,6 +16,7 @@
     <style name="MmsTheme" parent="@android:style/Theme.Material">
 	    <item name="android:colorBackground">@*android:color/material_blue_grey</item>
 	    <item name="android:windowBackground">@*android:color/material_blue_grey</item>
+	    <item name="android:statusBarColor">#303F9F</item>	
     </style>
     <style name="HeaderSpinnerDropDown" parent="@android:style/Widget.Material.DropDownItem.Spinner">
         <item name="android:textColor">?android:textColorPrimaryInverse</item>
