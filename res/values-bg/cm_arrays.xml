@@ -16,16 +16,27 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <plurals name="remaining_delay_time">
-    <item quantity="other">Gửi trong %1$d giây, chạm để hủy bỏ.</item>
-  </plurals>
-  <plurals name="confirm_delete_messages">
-    <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g> tin nhắn sẽ bị xoá.</item>
-  </plurals>
-  <plurals name="confirm_mark_read_conversation">
-    <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g> cuộc hội thoại được đánh dấu là đã đọc.</item>
-  </plurals>
-  <plurals name="confirm_mark_unread_conversation">
-    <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g> cuộc hội thoại sẽ được đánh dấu là chưa đọc.</item>
-  </plurals>
+  <string-array name="default_smiley_names">
+    <item>Щастлив</item>
+    <item>Тъжен</item>
+    <item>Премигване</item>
+    <item>Показва език</item>
+    <item>Изненадан</item>
+    <item>Целуване</item>
+    <item>Писъци</item>
+    <item>Готино</item>
+    <item>Пари в устата</item>
+    <item>Нерешителен</item>
+    <item>Смущение</item>
+    <item>Ангел</item>
+    <item>Колеблив</item>
+    <item>Плача</item>
+    <item>Няма да кажа</item>
+    <item>Смях</item>
+    <item>Объркан</item>
+    <item>Сърце</item>
+    <item>Луд</item>
+    <item>Самодоволен</item>
+    <item>Безизразно лице</item>
+  </string-array>
 </resources>
